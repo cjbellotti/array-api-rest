@@ -2,6 +2,7 @@
   "name": "array-api-rest",
   "version": "0.1.0",
   "description": "Restify an Array",
+  "repository" : "https://github.com/cjbellotti/array-api-rest",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

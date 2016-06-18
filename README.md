@@ -1,6 +1,6 @@
 # Array Api Rest
 
-This modulo generate a express instance with an api rest for an array. It is useful for test a external CRUD.
+This module generate a express instance with a api rest for an array. It is useful for test a external CRUD.
 
 ### Instalation
 ```sh
