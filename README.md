@@ -7,7 +7,7 @@ This module generate a express instance with a api rest for an array. It is usef
 $ npm install array-api-rest
 ```
 ### Example
-```code
+```javascript
 var express = require('express');
 var arrayApiRest = require('array-api-rest');
 
