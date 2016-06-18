@@ -28,7 +28,7 @@ app.use(arrayApiRest(arrayData, {
     logRequest : false,
     // Specify the main name for the API (default 'name')
     restName : 'name'
-});
+}));
 
 app.listen(port);
 
